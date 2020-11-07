@@ -10,3 +10,6 @@
 *  2、将一个3×3矩阵转置（即行和列互换）。[Matrix_Transpose.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Matrix_Transpose.py)
 *  3、验证“哥德巴赫猜想”。[Goldbach's_Conjecture.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Goldbach's_Conjecture.py)
 *  4、输入一个嵌套列表，再输入层数，求该层的数字元素个数。[Number_Elements.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Number_Elements.py)
+
+## Python第三方库——numpy
+*  1、numpy基础[Data_Numpy]
