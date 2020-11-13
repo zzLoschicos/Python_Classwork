@@ -11,11 +11,10 @@
 *  3、验证“哥德巴赫猜想”。[Goldbach's_Conjecture.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Goldbach's_Conjecture.py)
 *  4、输入一个嵌套列表，再输入层数，求该层的数字元素个数。[Number_Elements.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Number_Elements.py)
 
-##　PTA练习（字典和集合）
+## PTA练习（字典和集合）
 *  1、输入一个1到7的数字，输出对应的星期名的缩写。[Week_Abbreviation.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Week_Abbreviation.py)
 *  2、利用集合分析活动投票情况。第一小队有五名队员，序号是1,2,3,4,5;第二小队也有五名队员，序号6,7,8,9,10。输入一个得票字符串，求第二小队没有得票的队员。[Active_Voting.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Active_Voting.py)
 
 
 ## Python第三方库——numpy
 *  1、numpy基础[Data_Numpy]
-*  
