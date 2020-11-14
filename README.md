@@ -14,7 +14,9 @@
 ## PTA练习（字典和集合）
 *  1、输入一个1到7的数字，输出对应的星期名的缩写。[Week_Abbreviation.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Week_Abbreviation.py)
 *  2、利用集合分析活动投票情况。第一小队有五名队员，序号是1,2,3,4,5;第二小队也有五名队员，序号6,7,8,9,10。输入一个得票字符串，求第二小队没有得票的队员。[Active_Voting.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Active_Voting.py)
-
+*  3、求矩阵鞍点的个数一个矩阵元素的“鞍点”是指该位置上的元素值在该行上最大、在该列上最小。本题要求编写程序，求一个给定的n阶方阵的鞍点。[Matrix_Saddle_Point.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Matrix_Saddle_Point.py)
+*  4、输入一个列表，去掉列表中重复的数字，按原来次序输出！[List_Iniq.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/List_Iniq.py)
+*  5、能被3,5和7整除的数的个数（用集合实现），求指定区间内能被3,5和7整除的数的个数[NumSet.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/NumSet.py)
 
 ## Python第三方库——numpy
 *  1、numpy基础[Data_Numpy]
