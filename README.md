@@ -18,5 +18,10 @@
 *  4、输入一个列表，去掉列表中重复的数字，按原来次序输出！[List_Iniq.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/List_Iniq.py)
 *  5、能被3,5和7整除的数的个数（用集合实现），求指定区间内能被3,5和7整除的数的个数[NumSet.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/NumSet.py)
 
-## Python第三方库——numpy
-*  1、numpy基础[Data_Numpy]
+## PTA练习（函数）
+*  1、 给定两个均不超过9的正整数a和n，要求编写函数fn(a,n) 求a+aa+aaa++⋯+aa⋯aa(n个a）之和，fn须返回的是数列和 [Def_A_Sum.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_A_Sum.py))
+*  2、 使用函数求素数和prime(p), 其中函数prime当用户传入参数p为素数时返回True，否则返回False. PrimeSum(m,n),函数PrimeSum返回区间[m, n]内所有素数的和。[Def_Prime_Sum.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Prime_Sum.py)
+*  3、 本题要求实现一个统计整数中指定数字的个数的简单函数。CountDigit(number,digit )其中number是整数，digit为[1, 9]区间内的整数。函数CountDigit应返回number中digit出现的次数。[Def_Num_Count.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Num_Count.py)
+*  4、 使用函数输出指定范围内Fibonacci数的个数(用字典实现)[Def_Fibonacci_Count.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Fibonacci_Count.py)
+
+
