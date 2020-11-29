@@ -23,5 +23,4 @@
 *  2、 使用函数求素数和prime(p), 其中函数prime当用户传入参数p为素数时返回True，否则返回False. PrimeSum(m,n),函数PrimeSum返回区间[m, n]内所有素数的和。[Def_Prime_Sum.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Prime_Sum.py)
 *  3、 本题要求实现一个统计整数中指定数字的个数的简单函数。CountDigit(number,digit )其中number是整数，digit为[1, 9]区间内的整数。函数CountDigit应返回number中digit出现的次数。[Def_Num_Count.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Num_Count.py)
 *  4、 使用函数输出指定范围内Fibonacci数的个数(用字典实现)[Def_Fibonacci_Count.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Fibonacci_Count.py)
-
-
+*  5、 缩写词是由一个短语中每个单词的第一个字母组成，均为大写。[Def_Acronym_Phrase.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Acronym_Phrase.py)
