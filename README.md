@@ -24,3 +24,27 @@
 *  3、 本题要求实现一个统计整数中指定数字的个数的简单函数。CountDigit(number,digit )其中number是整数，digit为[1, 9]区间内的整数。函数CountDigit应返回number中digit出现的次数。[Def_Num_Count.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Num_Count.py)
 *  4、 使用函数输出指定范围内Fibonacci数的个数(用字典实现)[Def_Fibonacci_Count.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Fibonacci_Count.py)
 *  5、 缩写词是由一个短语中每个单词的第一个字母组成，均为大写。[Def_Acronym_Phrase.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/Def_Acronym_Phrase.py)
+
+## 数据结构_Python实现
+### 排序
+#### 冒泡排序
+1、 实现冒泡排序,代码文件:[DS_Python/Sorts/Bubble_Sort.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/DS_Python/Sorts/Bubble_Sort.py)
+>冒泡排序  
+0.如果遇到相等的值不进行交换，那这种排序方式是稳定的排序方式.  
+    1.原理：比较两个相邻的元素，将值大的元素交换到右边  
+    2.思路：依次比较相邻的两个数，将比较小的数放在前面，比较大的数放在后面。  
+　  (1)第一次比较：首先比较第一和第二个数，将小数放在前面，将大数放在后面。  
+    (2)比较第2和第3个数，将小数放在前面，大数放在后面。  
+　　......  
+　　(3)如此继续，知道比较到最后的两个数，将小数放在前面，大数放在后面，重复步骤，直至全部排序完成  
+　　(4)在上面一趟比较完成后，最后一个数一定是数组中最大的一个数，所以在比较第二趟的时候，最后一个数是不参加比较的。  
+　　(5)在第二趟比较完成后，倒数第二个数也一定是数组中倒数第二大数，所以在第三趟的比较中，最后两个数是不参与比较的。  
+　　(6)依次类推，每一趟比较次数减少依次。  
+
+
+2、 实现选择排序，代码文件：[DS_Python/Sorts/Selection_Sort.py](https://github.com/zzLoschicos/Python_Classwork/blob/main/DS_Python/Sorts/Selection_Sort.py)
+> 选择排序（Selection sort）是一种简单直观的排序算法。  
+它的工作原理是每一次从待排序的数据元素中选出最小（或最大）的一个元素，存放在序列的起始位置，所以称为：选择排序。  
+1、原理  
+　　设第一个元素为比较元素，依次和后面的元素比较，比较完所有元素找到最小的元素，将它和第一个元素互换  
+　重复上述操作，我们找出第二小的元素和第二个位置的元素互换，以此类推找出剩余最小元素将它换到前面，即完成排序  
